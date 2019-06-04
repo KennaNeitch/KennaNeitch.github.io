@@ -1,11 +1,11 @@
-numbers = [1,2,3,4,5]
-data = []
-for number in numbers:
-    data.append(number - 10)
-
-data
-
-print(data)
+# numbers = [1,2,3,4,5]
+# data = []
+# for number in numbers:
+#     data.append(number - 10)
+#
+# data
+#
+# print(data)
 
 number2 = [1,2,3,4,5]
 data2 = []
