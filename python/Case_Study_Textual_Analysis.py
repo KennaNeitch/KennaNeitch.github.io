@@ -95,6 +95,6 @@ def get_counts_in_corpora(token, corpus_one, corpus_two):
 # print(corpus_one_results)
 # print(corpus_two_results)
 
-from matplotlib import pylab
-nltk.Text(doyle[0]).dispersion_plot(["evidence", "clue", "science", "love", "say", "said"])
-nltk.Text(bronte[0]).dispersion_plot(["evidence", "clue", "science", "say", "said"])
+# from matplotlib import pylab
+# nltk.Text(doyle[0]).dispersion_plot(["evidence", "clue", "science", "love", "say", "said"])
+# nltk.Text(bronte[0]).dispersion_plot(["evidence", "clue", "science", "say", "said"])
